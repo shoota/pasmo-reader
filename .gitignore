@@ -1,6 +1,7 @@
 # IDE
 .metadata
 RemoteSystemsTempFiles
+*/.settings
 
 # Built application files
 *.apk
